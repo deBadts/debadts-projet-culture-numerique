@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="AFFICHER moyenne" texte="Calcul de moyenne avec 3 nombres "/>
+    <description courant="AFFICHER moyenne" texte="Calcul de moyenne avec 4 nombres "/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2lignes="" F2defaut="" F2para="" F2etat="inactif"/>
